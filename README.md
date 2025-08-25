@@ -123,7 +123,5 @@ Cada projeto abaixo inclui **análise sistêmica**, **decisões arquiteturais** 
 
 ### **Próximos Passos**  
 1. Clone o repositório e comece a preencher os projetos modelo.  
-2. Use o [pré-prompt da LLM](https://github.com/seu-user/systems-thinking-software-design/blob/main/docs/prompt.md) para auxiliar na documentação.  
-3. Publique no LinkedIn com a hashtag **#SystemsThinkingInSoftware**.  
-
-Vou te ajudar a estruturar o primeiro projeto! Envie os detalhes do seu próximo desafio. 🚀
+2. Use o [pré-prompt da LLM](https://github.com/GustavoGarciaPereira/systems-thinking-software-design/blob/main//prompt.md) para auxiliar na documentação.  
+3. Publique no LinkedIn com a hashtag **#SystemsThinkingInSoftware**.
